@@ -1,0 +1,27 @@
+{
+  "mouthsPath": "defaults/mouths/",
+  "poses":{
+      "imagesFolder": "/home/human/Desktop/newFaces/",
+      "crossed": {
+        "image": "crossed.png",
+        "x": 480.55000019073486,
+        "y": 431.34999084472656,
+        "scale": 2.02,
+        "facingRight": true
+      },
+      "default": {
+        "image": "default.png",
+        "x": 480.55000019073486,
+        "y": 431.34999084472656,
+        "scale": 2.02,
+        "facingRight": true
+      },
+      "point": {
+        "image": "point.png",
+        "x": 480.55000019073486,
+        "y": 431.34999084472656,
+        "scale": 2.02,
+        "facingRight": true
+      }
+  }
+}
